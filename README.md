@@ -1,1 +1,3 @@
 # VanityFairSpider
+
+scrapy crawl vf
